@@ -1,5 +1,10 @@
 git clone https://github.com/FighterTunnel/Airdrop.git
 cd Airdrop/teneo
+apt install npm -y
 npm install
 npm install pm2@latest -g
 pm2 start teneo.js --name teneo-bot
+
+
+
+pm2 logs teneo-bot
