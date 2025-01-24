@@ -172,8 +172,8 @@ async function updateCountdownAndPoints() {
 async function getUserId() { 
     const loginUrl = "https://auth.teneo.pro/api/login";
   
-    const email = 'email@isi.om;
-    const password = '0000'; 
+    const email = 'nuryahyamuhaimin3@gmail.com;
+    const password = '0sSXFTXSs0'; 
   
     try {
       const response = await axios.post(loginUrl, {
