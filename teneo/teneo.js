@@ -173,7 +173,7 @@ async function getUserId() {
     const loginUrl = "https://auth.teneo.pro/api/login";
   
     const email = 'nuryahyamuhaimin3@gmail.com';
-    const password = '0sSXFTXSs0'; 
+    const password = 'gwh42yaffAdf44'; 
   
     try {
       const response = await axios.post(loginUrl, {
