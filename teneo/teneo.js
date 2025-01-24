@@ -172,7 +172,7 @@ async function updateCountdownAndPoints() {
 async function getUserId() { 
     const loginUrl = "https://auth.teneo.pro/api/login";
   
-    const email = 'nuryahyamuhaimin3@gmail.com;
+    const email = 'nuryahyamuhaimin3@gmail.com';
     const password = '0sSXFTXSs0'; 
   
     try {
