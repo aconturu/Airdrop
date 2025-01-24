@@ -2,10 +2,10 @@
   "name": "teneo-auto-farm",
   "version": "1.0.0",
   "description": "auto farm for teneo extension",
-  "main": "main.js",
+  "main": "teneo.js",
   "scripts": {
-    "start": "node main.js",
-    "pm2-start": "node -e \"process.stdout.isTTY = false; require('./main.js')\""
+    "start": "node teneo.js",
+    "pm2-start": "node -e \"process.stdout.isTTY = false; require('./teneo.js')\""
   },
   "dependencies": {
     "axios": "^0.21.1",
