@@ -1,6 +1,6 @@
 # Depined-Auto-Bot
 
-Depined Auto Bot
+Depined 
 
 ---
 
