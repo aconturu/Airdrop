@@ -88,4 +88,4 @@ nohup ./multiple-node > output.log 2>&1 &
 
 
 # Menjalankan bind dengan parameter yang dimasukkan
-./multiple-cli bind --bandwidth-download 1000 --identifier 1S00BIIS --pin 123369 --storage 1000 --bandwidth-upload 500
+./multiple-cli bind --bandwidth-download 1000 --identifier S0D95DCS --pin 123369 --storage 1000 --bandwidth-upload 500
